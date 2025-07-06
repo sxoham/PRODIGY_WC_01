@@ -9,6 +9,7 @@ Welcome to SohamLens, a clean and responsive photography portfolio website built
 ---
 
 🖼️ Features
+
 Responsive Layout — Works beautifully on all devices (desktop, tablet, mobile)
 
 Clean UI/UX — Focused on imagery with a smooth and distraction-free layout
@@ -24,6 +25,7 @@ Social Media Icons — Links to Instagram, LinkedIn, etc.
 ---
 
 🛠️ Built With
+
 HTML5
 
 CSS3
@@ -34,9 +36,9 @@ JavaScript (Vanilla)
 
 📁 Folder Structure
 
-PRODIGY_WD_01/
-├── index.html
-├── style.css
-├── script.js
-├── pics/               # Folder with your images
+PRODIGY_WD_01/ <br>
+├── index.html <br>
+├── style.css <br>
+├── script.js <br>
+├── pics/               # Folder with your images <br>
 └── assets/             # (Optional) Fonts, Icons, etc.
